@@ -1,0 +1,42 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\IOC\\FP Oberta\\M08-PRG MULTIMEDIA I MOBILS\\EACS\\EAC4\\PizzaAttack\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\IOC\\FP Oberta\\M08-PRG MULTIMEDIA I MOBILS\\EACS\\EAC4\\PizzaAttack\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "104",
+                        "endLines": "10",
+                        "endColumns": "12",
+                        "endOffsets": "562"
+                    }
+                },
+                {
+                    "source": "C:\\IOC\\FP Oberta\\M08-PRG MULTIMEDIA I MOBILS\\EACS\\EAC4\\PizzaAttack\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "56",
+                        "endColumns": "48",
+                        "endOffsets": "100"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "48",
+                        "endOffsets": "99"
+                    }
+                }
+            ]
+        }
+    ]
+}

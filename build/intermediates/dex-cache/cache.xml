@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\esther\Dropbox\IOC\M8\EACs\EAC_1819\EAC4\Solucio_EAC4_1819s1\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e4790515d107e4c09c94db0b5277b5b77469254">
+        <dex dex="C:\Users\esther\Dropbox\IOC\M8\EACs\EAC_1819\EAC4\Solucio_EAC4_1819s1\android\build\intermediates\pre-dexed\debug\core-1.0_2a2c9cded4c07ec2d9a155ffa32330d1fc90f124.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esther\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx\1.6.3\f5848caaa3edeedce92361c61c716a1cb33587f\gdx-1.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0f5848caaa3edeedce92361c61c716a1cb33587f">
+        <dex dex="C:\Users\esther\Dropbox\IOC\M8\EACs\EAC_1819\EAC4\Solucio_EAC4_1819s1\android\build\intermediates\pre-dexed\debug\gdx-1.6.3_d3862e235bb2e06f12e2a152f72d555c5152c3f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esther\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-box2d\1.6.3\82ff2ee784275ae5f49ac942a593c5248b80881b\gdx-box2d-1.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="82ff2ee784275ae5f49ac942a593c5248b80881b">
+        <dex dex="C:\Users\esther\Dropbox\IOC\M8\EACs\EAC_1819\EAC4\Solucio_EAC4_1819s1\android\build\intermediates\pre-dexed\debug\gdx-box2d-1.6.3_5fa35e91d1ae53d08d2ba2ca58e926bed0f189e9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\esther\.gradle\caches\modules-2\files-2.1\com.badlogicgames.gdx\gdx-backend-android\1.6.3\78054a81e63d50b73e0cb00e4ba01bb54f9be94f\gdx-backend-android-1.6.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="78054a81e63d50b73e0cb00e4ba01bb54f9be94f">
+        <dex dex="C:\Users\esther\Dropbox\IOC\M8\EACs\EAC_1819\EAC4\Solucio_EAC4_1819s1\android\build\intermediates\pre-dexed\debug\gdx-backend-android-1.6.3_7ddcc3da23d19fa6f64961fd2bdc90a9403d19dc.jar" />
+    </item>
+
+</items>

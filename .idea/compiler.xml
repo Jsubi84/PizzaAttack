@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="1.7">
+      <module name="PizzaAttack.android" target="13" />
+      <module name="SpaceRace.android" target="13" />
+      <module name="SpaceRaceStarter.android" target="13" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

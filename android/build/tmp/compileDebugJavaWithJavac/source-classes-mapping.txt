@@ -1,0 +1,4 @@
+cat/xtec/ioc/android/BuildConfig.java
+ cat.xtec.ioc.android.BuildConfig
+cat/xtec/ioc/android/AndroidLauncher.java
+ cat.xtec.ioc.android.AndroidLauncher

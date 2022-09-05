@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/PizzaAttack.iml" filepath="$PROJECT_DIR$/.idea/modules/PizzaAttack.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/android/PizzaAttack.android.iml" filepath="$PROJECT_DIR$/.idea/modules/android/PizzaAttack.android.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/PizzaAttack.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/PizzaAttack.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/desktop/PizzaAttack.desktop.iml" filepath="$PROJECT_DIR$/.idea/modules/desktop/PizzaAttack.desktop.iml" />
+    </modules>
+  </component>
+</project>
